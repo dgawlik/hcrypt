@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "wmmintrin.h": "c",
+        "avxintrin.h": "c"
+    }
+}
